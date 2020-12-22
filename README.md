@@ -11,7 +11,7 @@ npm 6.9.0 or higher
 ### Installing
 
 ```bash
-git clone https://github.com/bewarusman/blog-api.git
+git@github.com:lloyd-theophilus/Blog-API.git
 npm init
 ```
 
