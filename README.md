@@ -1,4 +1,4 @@
-# Building Express.JS Server - Minimal
+# Building Express.JS Server API
 
 # Getting Started
 
